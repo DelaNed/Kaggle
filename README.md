@@ -1,0 +1,3 @@
+# Notebooks in Misc repository are as follows:
+- [medical-symptoms.ipynb](medical-symptoms.ipynb) uses SVM to predict common diseases from symptoms and dataset is [Medical Speech, Transcription, and Intent](https://www.kaggle.com/datasets/paultimothymooney/medical-speech-transcription-and-intent) an audio utterances paired with text for common medical symptoms shared on Kaggle.
+- [lightfm_H&M-personalized-fashion-recommendations.ipynb](lightfm_H&M-personalized-fashion-recommendations.ipynb) uses LightFM to recommend product based on previous purchases and dataset is [H&M Personalized Fashion Recommendations](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations) shared on Kaggle. 
